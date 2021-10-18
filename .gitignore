@@ -133,3 +133,5 @@ src/
 readme_template/
 
 data/
+
+.DS_Store
